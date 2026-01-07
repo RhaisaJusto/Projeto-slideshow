@@ -39,7 +39,7 @@ Durante o desenvolvimento deste projeto, pude aprender e reforçar diversos conc
 
 ![Preview do Slideshow](images/Preview.gif)
 
-
+> Visualização do Slideshow (arquivo: `images/Preview.gif`)
 ---
 
 
